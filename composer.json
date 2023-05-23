@@ -1,0 +1,11 @@
+{
+    "name": "dev_henry/library",
+    "description": "A Powerful PHP Library that helps to Automate Tasks",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "DevHenry\\": "library/"
+        }
+    },
+    "require": {}
+}
